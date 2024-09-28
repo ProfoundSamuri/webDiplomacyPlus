@@ -1896,14 +1896,14 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
       {
         name: "main",
         x: 75,
-        y: 95,
+        y: 115,
       },
     ],
     unitSlots: [
       {
         name: "main",
         x: 80,
-        y: 102,
+        y: 35,
         arrowReceiver: {
           x: 100,
           y: 60,
