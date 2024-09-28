@@ -1409,14 +1409,14 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
     type: "Coast",
     fill: "none",
     centerPos: {
-      x: 10,
-      y: 23,
+      x: 55,
+      y: 110,
     },
     labels: [
       {
         name: "main",
-        x: 48,
-        y: 37,
+        x: 40,
+        y: 105,
       },
     ],
     unitSlots: [
@@ -1430,10 +1430,10 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
         },
       },
     ],
-    width: 118,
-    height: 115,
-    x: 2857,
-    y: 2180,
+    width: 162,
+    height: 196,
+    x: 2812,
+    y: 2097,
     playable: true,
     texture: {
       texture: Texture.LAND,
@@ -1857,14 +1857,14 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
     type: "Coast",
     fill: "none",
     centerPos: {
-      x: 56,
-      y: 70,
+      x: 155,
+      y: 185,
     },
     labels: [
       {
         name: "main",
-        x: 100,
-        y: 95,
+        x: 152,
+        y: 175,
       },
     ],
     unitSlots: [
@@ -1892,10 +1892,6 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
     abbr: "CRO",
     type: "Coast",
     fill: "none",
-    centerPos: {
-      x: 56,
-      y: 70,
-    },
     labels: [
       {
         name: "main",
