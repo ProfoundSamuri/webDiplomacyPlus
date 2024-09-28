@@ -16,6 +16,7 @@ type ITerritoryMap = {
 
 export const webdipNameToTerritory: { [key: string]: Territory } = {
   Clyde: Territory.CLYDE,
+  Croatia: Territory.CROATIA,
   Edinburgh: Territory.EDINBURGH,
   Liverpool: Territory.LIVERPOOL,
   Yorkshire: Territory.YORK,
@@ -27,7 +28,7 @@ export const webdipNameToTerritory: { [key: string]: Territory } = {
   Tunis: Territory.TUNIS,
   Naples: Territory.NAPLES,
   Rome: Territory.ROME,
-  Tuscany: Territory.TUSCANY,
+  //Tuscany: Territory.TUSCANY,
   Piedmont: Territory.PIEDMONT,
   Venice: Territory.VENICE,
   Apulia: Territory.APULIA,
