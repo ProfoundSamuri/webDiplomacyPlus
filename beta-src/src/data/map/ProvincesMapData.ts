@@ -1870,8 +1870,8 @@ const mapDrawData: { [key in Province]: ProvinceMapDrawData } = {
     unitSlots: [
       {
         name: "main",
-        x: 85,
-        y: 80,
+        x: 75,
+        y: 65,
         arrowReceiver: {
           x: 100,
           y: 60,
